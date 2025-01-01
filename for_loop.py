@@ -1,5 +1,6 @@
+
 def for_loop_sample():
-    # Loop angka
+    # Loop angka2dd
     for i in range(3):
         # 0 <= i < 3
         print(i)
